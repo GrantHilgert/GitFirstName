@@ -27,6 +27,7 @@ int main(void){
 	while(true){ //True until function return
 		
 		input = 0;
+		std::cout <<"\n This is the code for Lab 3"
 		std::cout << "\n\n\nWelcome to the menu! Please Select\nA: Factorial of a number\nB: Leap year or not\nC: Maximum\nD: Division of two numebrs\nE: Exit\n";
 		std::cout <<"Your selection: ";
 		std::cin >> input;
